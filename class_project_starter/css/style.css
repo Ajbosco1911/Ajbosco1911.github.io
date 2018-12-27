@@ -1,0 +1,62 @@
+
+body {
+  background-color: #b3cccc;
+  color: white;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  text-align: center;
+  color: #009999;
+  letter-spacing: 2px;
+  font-size: 50px
+}
+
+h2 {
+  color: #009900;
+
+}
+
+#green {
+  color: #009900;
+}
+
+#teal {
+  color: #006666;
+}
+
+#yellow {
+  color: #ffcc00;
+}
+
+.horizontal {
+  margin-top: 10px;
+  padding: 30px;
+  display: inline-block;
+  }
+
+}
+
+.mammal {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.mammal:hover {
+  background-color: blue;
+}
+
+.bird {
+  margin-top: 30px;
+  padding-bottom: 40px;
+}
+
+hr {
+  border: 1px solid black;
+  max-width: 90px;
+  margin: 40px auto;
+}
+
+p {
+  font-family: "Merriweather", serif;
+}
